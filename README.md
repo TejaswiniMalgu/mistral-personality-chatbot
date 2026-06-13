@@ -1,6 +1,8 @@
 # mistral-personality-chatbot
 🤖 PersonaAI
 
+Live here: https://mistral-personality-chatbot.streamlit.app/
+
 A Multi-Personality AI Chatbot powered by Mistral AI and LangChain.
 
 Interact with an AI assistant that can switch between different personalities:
